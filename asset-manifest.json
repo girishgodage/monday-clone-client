@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/monday-clone-client/static/css/main.624dd9e1.css",
+    "main.js": "/monday-clone-client/static/js/main.f0fd81f6.js",
+    "static/media/crm_logo.png": "/monday-clone-client/static/media/crm_logo.01f10692c9ff3ee3ee55.png",
+    "index.html": "/monday-clone-client/index.html",
+    "main.624dd9e1.css.map": "/monday-clone-client/static/css/main.624dd9e1.css.map",
+    "main.f0fd81f6.js.map": "/monday-clone-client/static/js/main.f0fd81f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.624dd9e1.css",
+    "static/js/main.f0fd81f6.js"
+  ]
+}
