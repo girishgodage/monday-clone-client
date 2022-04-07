@@ -3,7 +3,8 @@ import axios from "axios";
 import { useNavigate, useParams } from "react-router-dom";
 import CategoriesContext from "../contexts/appContext";
 
-const BASE_URL = process.env.REACT_APP_BASE_API;
+const BASE_URL = "https://gir-mondaycrm.netlify.app//.netlify/functions/api/v1";
+//const BASE_URL = process.env.REACT_APP_BASE_API;
 
 const TicketPage = ({ editMode = false }) => {
   const navigate = useNavigate();

@@ -6,7 +6,8 @@ import { Link } from "react-router-dom";
 
 import TicketCard from "../components/TicketCard";
 
-const BASE_URL = process.env.REACT_APP_BASE_API;
+const BASE_URL = "https://gir-mondaycrm.netlify.app//.netlify/functions/api/v1";
+//process.env.REACT_APP_BASE_API;
 
 const Dashboard = () => {
   const [tickets, setTickets] = React.useState(null);
