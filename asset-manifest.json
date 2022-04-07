@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/monday-clone-client/static/css/main.624dd9e1.css",
-    "main.js": "/monday-clone-client/static/js/main.c2bfb2fc.js",
+    "main.js": "/monday-clone-client/static/js/main.8e7dd498.js",
     "static/media/crm_logo.png": "/monday-clone-client/static/media/crm_logo.01f10692c9ff3ee3ee55.png",
     "index.html": "/monday-clone-client/index.html",
     "main.624dd9e1.css.map": "/monday-clone-client/static/css/main.624dd9e1.css.map",
-    "main.c2bfb2fc.js.map": "/monday-clone-client/static/js/main.c2bfb2fc.js.map"
+    "main.8e7dd498.js.map": "/monday-clone-client/static/js/main.8e7dd498.js.map"
   },
   "entrypoints": [
     "static/css/main.624dd9e1.css",
-    "static/js/main.c2bfb2fc.js"
+    "static/js/main.8e7dd498.js"
   ]
 }
